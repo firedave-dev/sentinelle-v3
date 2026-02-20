@@ -1,0 +1,4023 @@
+{
+  "version": "2.4",
+  "lastSave": 1765140537544,
+  "intelligentSystem": {
+    "guildProfiles": {
+      "1362212306527846471": {
+        "raidHistory": 0,
+        "falseAlerts": 5,
+        "adaptiveThreshold": 0.55,
+        "lastUpdate": 1764537413264,
+        "createdAt": 1759863587069
+      },
+      "1402738100244971570": {
+        "raidHistory": 0,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.6,
+        "lastUpdate": 1759863587069,
+        "createdAt": 1759863587069
+      },
+      "1395076936304168970": {
+        "raidHistory": 0,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.6,
+        "lastUpdate": 1759863587069,
+        "createdAt": 1759863587069
+      },
+      "1227645894774751323": {
+        "raidHistory": 0,
+        "falseAlerts": 9,
+        "adaptiveThreshold": 0.55,
+        "lastUpdate": 1764439232077,
+        "createdAt": 1759863587069
+      },
+      "1374744387493564558": {
+        "raidHistory": 0,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.6,
+        "lastUpdate": 1759863587069,
+        "createdAt": 1759863587069
+      },
+      "1387323453052289105": {
+        "raidHistory": 26,
+        "falseAlerts": 6,
+        "adaptiveThreshold": 0.55,
+        "lastUpdate": 1764744079674,
+        "createdAt": 1759863587069
+      },
+      "1214608741815550022": {
+        "raidHistory": 0,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.6,
+        "lastUpdate": 1759863587069,
+        "createdAt": 1759863587069
+      },
+      "1181682239663259739": {
+        "raidHistory": 0,
+        "falseAlerts": 8,
+        "adaptiveThreshold": 0.55,
+        "lastUpdate": 1764439019657,
+        "createdAt": 1759863587069
+      },
+      "1422299398473515011": {
+        "raidHistory": 0,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.6,
+        "lastUpdate": 1759863587069,
+        "createdAt": 1759863587069
+      },
+      "1423397267909640282": {
+        "raidHistory": 0,
+        "falseAlerts": 5,
+        "adaptiveThreshold": 0.55,
+        "lastUpdate": 1760298113477,
+        "createdAt": 1759954300181
+      },
+      "1417059441563402292": {
+        "raidHistory": 0,
+        "falseAlerts": 4,
+        "adaptiveThreshold": 0.55,
+        "lastUpdate": 1763012754594,
+        "createdAt": 1760383333259
+      },
+      "1427995770027511881": {
+        "raidHistory": 44,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.25000000000000006,
+        "lastUpdate": 1760531523982,
+        "createdAt": 1760531213334
+      },
+      "1370058042749751326": {
+        "raidHistory": 0,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.5,
+        "lastUpdate": 1761428971056,
+        "createdAt": 1760817215147
+      },
+      "1426159840358567946": {
+        "raidHistory": 7,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.5,
+        "lastUpdate": 1761202685562,
+        "createdAt": 1761173692129
+      },
+      "1429984412606402570": {
+        "raidHistory": 0,
+        "falseAlerts": 6,
+        "adaptiveThreshold": 0.6400000000000001,
+        "lastUpdate": 1764884675024,
+        "createdAt": 1761228011831
+      },
+      "1432281834049372273": {
+        "raidHistory": 14,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.25000000000000006,
+        "lastUpdate": 1761558781829,
+        "createdAt": 1761553356137
+      },
+      "1250534673449357332": {
+        "raidHistory": 0,
+        "falseAlerts": 1,
+        "adaptiveThreshold": 0.53,
+        "lastUpdate": 1761756051384,
+        "createdAt": 1761756051384
+      },
+      "1232310028992647168": {
+        "raidHistory": 0,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.5,
+        "lastUpdate": 1762455169525,
+        "createdAt": 1762455169525
+      },
+      "1437856345037738137": {
+        "raidHistory": 3,
+        "falseAlerts": 1,
+        "adaptiveThreshold": 0.53,
+        "lastUpdate": 1764182344577,
+        "createdAt": 1762882816556
+      },
+      "1428810830811500596": {
+        "raidHistory": 333,
+        "falseAlerts": 130,
+        "adaptiveThreshold": 0.75,
+        "lastUpdate": 1765046598273,
+        "createdAt": 1762898577092
+      },
+      "1440389760676925503": {
+        "raidHistory": 61,
+        "falseAlerts": 0,
+        "adaptiveThreshold": 0.25000000000000006,
+        "lastUpdate": 1764454106983,
+        "createdAt": 1764346485437
+      },
+      "1444215174549602477": {
+        "raidHistory": 30,
+        "falseAlerts": 13,
+        "adaptiveThreshold": 0.5800000000000001,
+        "lastUpdate": 1765041645932,
+        "createdAt": 1764427599795
+      },
+      "1433517276367159352": {
+        "raidHistory": 0,
+        "falseAlerts": 4,
+        "adaptiveThreshold": 0.55,
+        "lastUpdate": 1764848901054,
+        "createdAt": 1764783552895
+      },
+      "1321186970176589924": {
+        "raidHistory": 0,
+        "falseAlerts": 153,
+        "adaptiveThreshold": 0.9000000000000001,
+        "lastUpdate": 1765062703633,
+        "createdAt": 1765011319538
+      },
+      "1447289005237469277": {
+        "raidHistory": 0,
+        "falseAlerts": 9,
+        "adaptiveThreshold": 0.75,
+        "lastUpdate": 1765133257852,
+        "createdAt": 1765131928401
+      }
+    },
+    "knownPatterns": {
+      "154032": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.4166666666666667,
+        "serverSize": 0.004,
+        "activityIntensity": 0.28,
+        "massActionScore": 0.2,
+        "confidence": 0.95,
+        "occurrences": 13,
+        "type": "confirmed_threat"
+      },
+      "155063": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5416666666666666,
+        "serverSize": 0.024,
+        "activityIntensity": 0.6,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "155073": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5416666666666666,
+        "serverSize": 0.024,
+        "activityIntensity": 0.66,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "158083": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.75,
+        "serverSize": 0.025,
+        "activityIntensity": 0.78,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "256025": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.004,
+        "activityIntensity": 0.2,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 11,
+        "type": "confirmed_threat"
+      },
+      "256035": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.004,
+        "activityIntensity": 0.26,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 7,
+        "type": "confirmed_threat"
+      },
+      "256045": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.004,
+        "activityIntensity": 0.42,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "256055": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.004,
+        "activityIntensity": 0.52,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "256065": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.004,
+        "activityIntensity": 0.56,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "357166": {
+        "joinRate": 0.3,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.126,
+        "activityIntensity": 0.64,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "357176": {
+        "joinRate": 0.3,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.126,
+        "activityIntensity": 0.66,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "1105063": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.5416666666666666,
+        "serverSize": 0.024,
+        "activityIntensity": 0.6,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "1108065": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.014,
+        "activityIntensity": 0.58,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "1501105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0,
+        "serverSize": 0.121,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "1510135": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.064,
+        "activityIntensity": 0.34,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "1510195": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.121,
+        "activityIntensity": 0.94,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "1531103": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.25,
+        "serverSize": 0.108,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "1541105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.375,
+        "serverSize": 0.123,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "1544106": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.4166666666666667,
+        "serverSize": 0.357,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "1551106": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5,
+        "serverSize": 0.065,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "1561106": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.066,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 10,
+        "type": "confirmed_threat"
+      },
+      "1571106": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.6666666666666666,
+        "serverSize": 0.076,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 10,
+        "type": "confirmed_threat"
+      },
+      "1580105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.8333333333333334,
+        "serverSize": 0.048,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "1580107": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.015,
+        "activityIntensity": 1,
+        "massActionScore": 0.7,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "1581106": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.75,
+        "serverSize": 0.078,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 6,
+        "type": "confirmed_threat"
+      },
+      "1591105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.079,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.8500000000000001,
+        "occurrences": 4,
+        "type": "confirmed_threat"
+      },
+      "1594105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.358,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "2106065": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.004,
+        "activityIntensity": 0.64,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "2106075": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.004,
+        "activityIntensity": 0.66,
+        "massActionScore": 0.5,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "2106076": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.003,
+        "activityIntensity": 0.72,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 18,
+        "type": "confirmed_threat"
+      },
+      "2501105": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.041666666666666664,
+        "serverSize": 0.122,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "2510080": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.026,
+        "activityIntensity": 0.76,
+        "massActionScore": 0,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "2510165": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.122,
+        "activityIntensity": 0.64,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "2510175": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.122,
+        "activityIntensity": 0.66,
+        "massActionScore": 0.5,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "2561106": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.067,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 10,
+        "type": "confirmed_threat"
+      },
+      "2571106": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.078,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 9,
+        "type": "confirmed_threat"
+      },
+      "2581106": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.08,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "3107176": {
+        "joinRate": 0.3,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.125,
+        "activityIntensity": 0.7,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "3561106": {
+        "joinRate": 0.3,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.069,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 14,
+        "type": "confirmed_threat"
+      },
+      "3581106": {
+        "joinRate": 0.3,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.081,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "4561106": {
+        "joinRate": 0.4,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.625,
+        "serverSize": 0.07,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "6580105": {
+        "joinRate": 0.6,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.75,
+        "serverSize": 0.032,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "8580105": {
+        "joinRate": 0.8,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.75,
+        "serverSize": 0.034,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "9580105": {
+        "joinRate": 0.9,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.75,
+        "serverSize": 0.035,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "10091100": {
+        "joinRate": 1,
+        "accountAgeRatio": 0.013578870701058201,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.121,
+        "activityIntensity": 1,
+        "massActionScore": 0,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "10491100": {
+        "joinRate": 1,
+        "accountAgeRatio": 0.40100375826719575,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.081,
+        "activityIntensity": 1,
+        "massActionScore": 0,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "10580105": {
+        "joinRate": 1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.75,
+        "serverSize": 0.036,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 19,
+        "type": "confirmed_threat"
+      },
+      "10591100": {
+        "joinRate": 1,
+        "accountAgeRatio": 0.5457211623677248,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.096,
+        "activityIntensity": 1,
+        "massActionScore": 0,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11001105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0,
+        "serverSize": 0.122,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11031103": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.25,
+        "serverSize": 0.108,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11041103": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.375,
+        "serverSize": 0.109,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11041105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.4166666666666667,
+        "serverSize": 0.124,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11051103": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.4583333333333333,
+        "serverSize": 0.109,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11061104": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.087,
+        "activityIntensity": 0.98,
+        "massActionScore": 0.4,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "11061105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.625,
+        "serverSize": 0.123,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11061106": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.066,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "11071102": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.093,
+        "activityIntensity": 1,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11071103": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.11,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "11080107": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.015,
+        "activityIntensity": 1,
+        "massActionScore": 0.7,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11081102": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.101,
+        "activityIntensity": 1,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "11091102": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.875,
+        "serverSize": 0.089,
+        "activityIntensity": 1,
+        "massActionScore": 0.2,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "15100105": {
+        "joinRate": 0.1,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.048,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "21001105": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.041666666666666664,
+        "serverSize": 0.122,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "21010185": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.121,
+        "activityIntensity": 0.76,
+        "massActionScore": 0.5,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "21010195": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.121,
+        "activityIntensity": 0.86,
+        "massActionScore": 0.5,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "21061102": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.625,
+        "serverSize": 0.117,
+        "activityIntensity": 1,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "25101105": {
+        "joinRate": 0.2,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.122,
+        "activityIntensity": 0.96,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "51080105": {
+        "joinRate": 0.5,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.03,
+        "activityIntensity": 0.98,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "61080105": {
+        "joinRate": 0.6,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.031,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "71080105": {
+        "joinRate": 0.7,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.033,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "81080105": {
+        "joinRate": 0.8,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.034,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "91080105": {
+        "joinRate": 0.9,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.035,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "101080105": {
+        "joinRate": 1,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.036,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 14,
+        "type": "confirmed_threat"
+      },
+      "101091100": {
+        "joinRate": 1,
+        "accountAgeRatio": 0.9829047321428571,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.119,
+        "activityIntensity": 1,
+        "massActionScore": 0,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "0106447": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.625,
+        "serverSize": 0.359,
+        "activityIntensity": 0.36,
+        "massActionScore": 0.7,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "0106457": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.625,
+        "serverSize": 0.358,
+        "activityIntensity": 0.5,
+        "massActionScore": 0.7,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "057487": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.357,
+        "activityIntensity": 0.82,
+        "massActionScore": 0.7,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "054055": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.375,
+        "serverSize": 0.002,
+        "activityIntensity": 0.48,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "0504105": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0,
+        "serverSize": 0.358,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "0544105": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.4166666666666667,
+        "serverSize": 0.357,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 7,
+        "type": "confirmed_threat"
+      },
+      "0544106": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.4166666666666667,
+        "serverSize": 0.356,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "01044106": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.4166666666666667,
+        "serverSize": 0.356,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "01054106": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.4583333333333333,
+        "serverSize": 0.358,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "058055": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.006,
+        "activityIntensity": 0.52,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "051176": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.125,
+        "serverSize": 0.064,
+        "activityIntensity": 0.72,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "051186": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.125,
+        "serverSize": 0.064,
+        "activityIntensity": 0.78,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "051196": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.125,
+        "serverSize": 0.064,
+        "activityIntensity": 0.86,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "052196": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.16666666666666666,
+        "serverSize": 0.064,
+        "activityIntensity": 0.9,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "0521106": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.16666666666666666,
+        "serverSize": 0.064,
+        "activityIntensity": 0.96,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "0531106": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.2916666666666667,
+        "serverSize": 0.064,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 7,
+        "type": "confirmed_threat"
+      },
+      "0551106": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5,
+        "serverSize": 0.064,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 13,
+        "type": "confirmed_threat"
+      },
+      "0561106": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.065,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.95,
+        "occurrences": 25,
+        "type": "confirmed_threat"
+      },
+      "0571106": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.6666666666666666,
+        "serverSize": 0.075,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "01071106": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.077,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "01081106": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.077,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "0581106": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.081,
+        "activityIntensity": 1,
+        "massActionScore": 0.6000000000000001,
+        "confidence": 0.8500000000000001,
+        "occurrences": 4,
+        "type": "confirmed_threat"
+      },
+      "059185": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.875,
+        "serverSize": 0.078,
+        "activityIntensity": 0.82,
+        "massActionScore": 0.5,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "0591105": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.875,
+        "serverSize": 0.078,
+        "activityIntensity": 0.98,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 10,
+        "type": "confirmed_threat"
+      },
+      "01091105": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.875,
+        "serverSize": 0.078,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "05101105": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.079,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.8500000000000001,
+        "occurrences": 4,
+        "type": "confirmed_threat"
+      },
+      "059162": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.875,
+        "serverSize": 0.08,
+        "activityIntensity": 0.64,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "059172": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.875,
+        "serverSize": 0.08,
+        "activityIntensity": 0.72,
+        "massActionScore": 0.2,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "059182": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.875,
+        "serverSize": 0.08,
+        "activityIntensity": 0.76,
+        "massActionScore": 0.2,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "059192": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.875,
+        "serverSize": 0.08,
+        "activityIntensity": 0.86,
+        "massActionScore": 0.2,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "01091102": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.875,
+        "serverSize": 0.08,
+        "activityIntensity": 1,
+        "massActionScore": 0.2,
+        "confidence": 0.95,
+        "occurrences": 6,
+        "type": "confirmed_threat"
+      },
+      "0591102": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.08,
+        "activityIntensity": 1,
+        "massActionScore": 0.2,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "01081104": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.089,
+        "activityIntensity": 1,
+        "massActionScore": 0.4,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "058142": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.8333333333333334,
+        "serverSize": 0.09,
+        "activityIntensity": 0.36,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "051162": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.125,
+        "serverSize": 0.09,
+        "activityIntensity": 0.58,
+        "massActionScore": 0.2,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "052172": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.20833333333333334,
+        "serverSize": 0.09,
+        "activityIntensity": 0.72,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "01071102": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.7083333333333334,
+        "serverSize": 0.092,
+        "activityIntensity": 1,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "058151": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.8333333333333334,
+        "serverSize": 0.106,
+        "activityIntensity": 0.52,
+        "massActionScore": 0.1,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "01091103": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.107,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.95,
+        "occurrences": 12,
+        "type": "confirmed_threat"
+      },
+      "010101103": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.107,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "0531103": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.3333333333333333,
+        "serverSize": 0.108,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.8500000000000001,
+        "occurrences": 4,
+        "type": "confirmed_threat"
+      },
+      "01031103": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.3333333333333333,
+        "serverSize": 0.108,
+        "activityIntensity": 1,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "0531101": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.25,
+        "serverSize": 0.11,
+        "activityIntensity": 1,
+        "massActionScore": 0.1,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "058064": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.01,
+        "activityIntensity": 0.6,
+        "massActionScore": 0.4,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "01081102": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.118,
+        "activityIntensity": 1,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "0501105": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0,
+        "serverSize": 0.121,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 8,
+        "type": "confirmed_threat"
+      },
+      "0531105": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.3333333333333333,
+        "serverSize": 0.122,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.8500000000000001,
+        "occurrences": 4,
+        "type": "confirmed_threat"
+      },
+      "01041105": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.375,
+        "serverSize": 0.122,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "0541105": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.375,
+        "serverSize": 0.122,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 7,
+        "type": "confirmed_threat"
+      },
+      "0551105": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5416666666666666,
+        "serverSize": 0.122,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "056073": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5833333333333334,
+        "serverSize": 0.024,
+        "activityIntensity": 0.74,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "01061105": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.625,
+        "serverSize": 0.123,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "0108085": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.014,
+        "activityIntensity": 0.8,
+        "massActionScore": 0.5,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "058095": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.75,
+        "serverSize": 0.014,
+        "activityIntensity": 0.86,
+        "massActionScore": 0.5,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "0108095": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.014,
+        "activityIntensity": 0.88,
+        "massActionScore": 0.5,
+        "confidence": 0.8500000000000001,
+        "occurrences": 4,
+        "type": "confirmed_threat"
+      },
+      "01080105": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.75,
+        "serverSize": 0.014,
+        "activityIntensity": 0.96,
+        "massActionScore": 0.5,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "058083": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.75,
+        "serverSize": 0.025,
+        "activityIntensity": 0.82,
+        "massActionScore": 0.30000000000000004,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "01080107": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.7916666666666666,
+        "serverSize": 0.015,
+        "activityIntensity": 1,
+        "massActionScore": 0.7,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "01081105": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.8333333333333334,
+        "serverSize": 0.124,
+        "activityIntensity": 1,
+        "massActionScore": 0.5,
+        "confidence": 0.95,
+        "occurrences": 11,
+        "type": "confirmed_threat"
+      },
+      "01090107": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.875,
+        "serverSize": 0.016,
+        "activityIntensity": 1,
+        "massActionScore": 0.7,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "059142": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9166666666666666,
+        "serverSize": 0.125,
+        "activityIntensity": 0.36,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "05100107": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.016,
+        "activityIntensity": 1,
+        "massActionScore": 0.7,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "0510142": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.9583333333333334,
+        "serverSize": 0.125,
+        "activityIntensity": 0.44,
+        "massActionScore": 0.2,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "050152": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0,
+        "serverSize": 0.125,
+        "activityIntensity": 0.46,
+        "massActionScore": 0.2,
+        "confidence": 0.9000000000000001,
+        "occurrences": 5,
+        "type": "confirmed_threat"
+      },
+      "050162": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0,
+        "serverSize": 0.125,
+        "activityIntensity": 0.56,
+        "massActionScore": 0.2,
+        "confidence": 0.95,
+        "occurrences": 6,
+        "type": "confirmed_threat"
+      },
+      "01000107": {
+        "joinRate": 0,
+        "accountAgeRatio": 1,
+        "timeOfDay": 0.041666666666666664,
+        "serverSize": 0.017,
+        "activityIntensity": 1,
+        "massActionScore": 0.7,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "0500107": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.041666666666666664,
+        "serverSize": 0.017,
+        "activityIntensity": 1,
+        "massActionScore": 0.7,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      },
+      "050172": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.041666666666666664,
+        "serverSize": 0.125,
+        "activityIntensity": 0.66,
+        "massActionScore": 0.2,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "053172": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.2916666666666667,
+        "serverSize": 0.125,
+        "activityIntensity": 0.68,
+        "massActionScore": 0.2,
+        "confidence": 0.8,
+        "occurrences": 3,
+        "type": "confirmed_threat"
+      },
+      "053182": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.3333333333333333,
+        "serverSize": 0.125,
+        "activityIntensity": 0.76,
+        "massActionScore": 0.2,
+        "confidence": 0.95,
+        "occurrences": 7,
+        "type": "confirmed_threat"
+      },
+      "054192": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.375,
+        "serverSize": 0.125,
+        "activityIntensity": 0.86,
+        "massActionScore": 0.2,
+        "confidence": 0.75,
+        "occurrences": 2,
+        "type": "confirmed_threat"
+      },
+      "0550107": {
+        "joinRate": 0,
+        "accountAgeRatio": 0.5,
+        "timeOfDay": 0.5416666666666666,
+        "serverSize": 0.017,
+        "activityIntensity": 1,
+        "massActionScore": 0.7,
+        "confidence": 0.7,
+        "occurrences": 1,
+        "type": "confirmed_threat"
+      }
+    },
+    "falsePositiveMemory": {
+      "1428810830811500596": [
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764849344456,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.6666666666666666,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764860779451,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.6666666666666666,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764860781856,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.6666666666666666,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764860782174,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.6666666666666666,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764861117516,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7083333333333334,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764866044648,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7083333333333334,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764866061011,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7083333333333334,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764866938649,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869797116,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869808600,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869814422,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869849605,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869852843,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869856748,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869860431,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869864101,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869867690,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869873574,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869878587,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869882713,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.131,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764869886919,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.131,
+            "activityIntensity": 0.38,
+            "massActionScore": 0
+          },
+          "timestamp": 1764970815670,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9583333333333334,
+            "serverSize": 0.131,
+            "activityIntensity": 0.46,
+            "massActionScore": 0
+          },
+          "timestamp": 1764974391388,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.13,
+            "activityIntensity": 0.52,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1765046102337,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.13,
+            "activityIntensity": 0.6,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1765046201073,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.76,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046343528,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.76,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046360491,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.76,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046377582,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.8,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046394981,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.78,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046399753,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.8,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046406051,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.84,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046412193,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.82,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046413048,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.84,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046418480,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.86,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046429400,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.86,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046441233,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.88,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046447312,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.88,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046449415,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.9,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046464816,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.9,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046477616,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.92,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046482394,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.92,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046507618,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.94,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046521541,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.96,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046540362,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 0.98,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046545637,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046552644,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046561341,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046562464,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046591122,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.129,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765046598273,
+          "eventType": "massChannelDelete"
+        }
+      ],
+      "1387323453052289105": [
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.372,
+            "activityIntensity": 0.4,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764701339727,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.374,
+            "activityIntensity": 0.54,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764710530595,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.374,
+            "activityIntensity": 0.6,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764710822465,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.373,
+            "activityIntensity": 0.66,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764712392681,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.373,
+            "activityIntensity": 0.68,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764712462698,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.373,
+            "activityIntensity": 0.68,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764712478835,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9583333333333334,
+            "serverSize": 0.373,
+            "activityIntensity": 0.7,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764714170093,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.9583333333333334,
+            "serverSize": 0.373,
+            "activityIntensity": 0.74,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764715068857,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9583333333333334,
+            "serverSize": 0.373,
+            "activityIntensity": 0.74,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764715258449,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9583333333333334,
+            "serverSize": 0.373,
+            "activityIntensity": 0.76,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764715276264,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.2916666666666667,
+            "serverSize": 0.372,
+            "activityIntensity": 0.78,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1764744079674,
+          "eventType": "massiveChannelCreation"
+        }
+      ],
+      "1444215174549602477": [
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5833333333333334,
+            "serverSize": 0.02,
+            "activityIntensity": 0.22,
+            "massActionScore": 0
+          },
+          "timestamp": 1764595036772,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5833333333333334,
+            "serverSize": 0.02,
+            "activityIntensity": 0.22,
+            "massActionScore": 0
+          },
+          "timestamp": 1764595069377,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5833333333333334,
+            "serverSize": 0.02,
+            "activityIntensity": 0.22,
+            "massActionScore": 0
+          },
+          "timestamp": 1764595166239,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5833333333333334,
+            "serverSize": 0.02,
+            "activityIntensity": 0.26,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764595387326,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5833333333333334,
+            "serverSize": 0.02,
+            "activityIntensity": 0.26,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764595464985,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5833333333333334,
+            "serverSize": 0.02,
+            "activityIntensity": 0.26,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764595490670,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5833333333333334,
+            "serverSize": 0.02,
+            "activityIntensity": 0.26,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764595564271,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.041666666666666664,
+            "serverSize": 0.022,
+            "activityIntensity": 0.22,
+            "massActionScore": 0
+          },
+          "timestamp": 1764634500252,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.041666666666666664,
+            "serverSize": 0.022,
+            "activityIntensity": 0.22,
+            "massActionScore": 0
+          },
+          "timestamp": 1764634708826,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.125,
+            "serverSize": 0.022,
+            "activityIntensity": 0.64,
+            "massActionScore": 0
+          },
+          "timestamp": 1764643697992,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 0.86,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651785860,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 0.88,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651788846,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 0.9,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651809454,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 0.92,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651812827,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 0.94,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651864381,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 0.96,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651867830,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 0.98,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651871002,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651874119,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651877030,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764651882486,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.25,
+            "serverSize": 0.022,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764652004079,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5416666666666666,
+            "serverSize": 0.022,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764679946259,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5416666666666666,
+            "serverSize": 0.022,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764679963301,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0.1,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.625,
+            "serverSize": 0.023,
+            "activityIntensity": 1,
+            "massActionScore": 0
+          },
+          "timestamp": 1764685054018,
+          "eventType": "massiveDeletion"
+        },
+        {
+          "signature": {
+            "joinRate": 0.1,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.625,
+            "serverSize": 0.023,
+            "activityIntensity": 1,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764685105964,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0.1,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.625,
+            "serverSize": 0.023,
+            "activityIntensity": 1,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764685144751,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0.1,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.625,
+            "serverSize": 0.023,
+            "activityIntensity": 1,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764685156216,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0.1,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.625,
+            "serverSize": 0.023,
+            "activityIntensity": 1,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764685177552,
+          "eventType": "massChannelDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0.1,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.625,
+            "serverSize": 0.023,
+            "activityIntensity": 1,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764685255466,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0.1,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.625,
+            "serverSize": 0.023,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1764685495441,
+          "eventType": "massRoleDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0.1,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.625,
+            "serverSize": 0.023,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1764685499316,
+          "eventType": "massRoleDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.75,
+            "serverSize": 0.116,
+            "activityIntensity": 0.14,
+            "massActionScore": 0.30000000000000004
+          },
+          "timestamp": 1765041645932,
+          "eventType": "massRoleDelete"
+        }
+      ],
+      "1362212306527846471": [
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.4,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537301060,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.42,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537301352,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.44,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537301586,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.46,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537301787,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.48,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537302031,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.5,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537302329,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.52,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537302546,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.54,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537302753,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.56,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537302949,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.58,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537303236,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.6,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537303427,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.62,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537303769,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.64,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537304028,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.66,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537304227,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.069,
+            "activityIntensity": 0.68,
+            "massActionScore": 0.2
+          },
+          "timestamp": 1764537413264,
+          "eventType": "massRoleChanges"
+        }
+      ],
+      "1433517276367159352": [
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.016,
+            "activityIntensity": 0.16,
+            "massActionScore": 0
+          },
+          "timestamp": 1764783552895,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.016,
+            "activityIntensity": 0.18,
+            "massActionScore": 0
+          },
+          "timestamp": 1764783743380,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.016,
+            "activityIntensity": 0.18,
+            "massActionScore": 0
+          },
+          "timestamp": 1764784018728,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.016,
+            "activityIntensity": 0.18,
+            "massActionScore": 0
+          },
+          "timestamp": 1764784176352,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.75,
+            "serverSize": 0.016,
+            "activityIntensity": 0.18,
+            "massActionScore": 0
+          },
+          "timestamp": 1764784238827,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.016,
+            "activityIntensity": 0.4,
+            "massActionScore": 0
+          },
+          "timestamp": 1764785636448,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.016,
+            "activityIntensity": 0.42,
+            "massActionScore": 0
+          },
+          "timestamp": 1764785663450,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.016,
+            "activityIntensity": 0.44,
+            "massActionScore": 0
+          },
+          "timestamp": 1764785664722,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.016,
+            "activityIntensity": 0.46,
+            "massActionScore": 0
+          },
+          "timestamp": 1764785665349,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.016,
+            "activityIntensity": 0.48,
+            "massActionScore": 0
+          },
+          "timestamp": 1764785666137,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.016,
+            "activityIntensity": 0.5,
+            "massActionScore": 0
+          },
+          "timestamp": 1764785666989,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.016,
+            "activityIntensity": 0.52,
+            "massActionScore": 0
+          },
+          "timestamp": 1764785693673,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.016,
+            "activityIntensity": 0.54,
+            "massActionScore": 0
+          },
+          "timestamp": 1764785712975,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.5,
+            "serverSize": 0.016,
+            "activityIntensity": 0.54,
+            "massActionScore": 0
+          },
+          "timestamp": 1764848901054,
+          "eventType": "massiveChannelCreation"
+        }
+      ],
+      "1429984412606402570": [
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.625,
+            "serverSize": 0.05,
+            "activityIntensity": 0.3,
+            "massActionScore": 0
+          },
+          "timestamp": 1764860154981,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.6666666666666666,
+            "serverSize": 0.05,
+            "activityIntensity": 0.32,
+            "massActionScore": 0
+          },
+          "timestamp": 1764862381571,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.9166666666666666,
+            "serverSize": 0.05,
+            "activityIntensity": 0.34,
+            "massActionScore": 0
+          },
+          "timestamp": 1764884675024,
+          "eventType": "massRoleChanges"
+        }
+      ],
+      "1321186970176589924": [
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017383238,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017383445,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017383647,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017383954,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017384175,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017384443,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017384648,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017385258,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017385921,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017386515,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017386783,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017386993,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017387645,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017388491,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017389416,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017389921,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017399497,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017399710,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017399930,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017400164,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017400377,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017400625,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017400875,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017401307,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017401523,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017401744,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017402034,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017402291,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017402560,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017402773,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017403421,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017403833,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.063,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765017404440,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765018130599,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.4583333333333333,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.4
+          },
+          "timestamp": 1765018130840,
+          "eventType": "massRoleDelete"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.875,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765052082094,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.875,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765052084988,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0.875,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765052099109,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.9583333333333334,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765059946572,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062587595,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062589743,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062590456,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062610248,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062613436,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062657076,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062665292,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062692125,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062693852,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062701642,
+          "eventType": "massRoleChanges"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 1,
+            "timeOfDay": 0,
+            "serverSize": 0.062,
+            "activityIntensity": 1,
+            "massActionScore": 0.5
+          },
+          "timestamp": 1765062703633,
+          "eventType": "massRoleChanges"
+        }
+      ],
+      "1447289005237469277": [
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765132992431,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765132999361,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765133071191,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765133117638,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765133146421,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765133173404,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765133201481,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765133227708,
+          "eventType": "massiveChannelCreation"
+        },
+        {
+          "signature": {
+            "joinRate": 0,
+            "accountAgeRatio": 0.5,
+            "timeOfDay": 0.7916666666666666,
+            "serverSize": 0.006,
+            "activityIntensity": 0,
+            "massActionScore": 0
+          },
+          "timestamp": 1765133257852,
+          "eventType": "massiveChannelCreation"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "totalAnalyses": 198,
+    "totalAlerts": 5,
+    "falsePositives": 190,
+    "confirmedThreats": 0
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "1362212306527846471": {
+    "channelManipulation": true,
+    "guildMemberAdd": false,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1374744387493564558": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1402738100244971570": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": false,
+    "botAdd": false
+  },
+  "1374304521005563926": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1360978708810305626": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": false,
+    "botAdd": false
+  },
+  "1181682239663259739": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1422299398473515011": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": false,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": false
+  },
+  "1423397267909640282": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1387323453052289105": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": false,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1021014305124134972": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1426159840358567946": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": false,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1417059441563402292": {
+    "channelManipulation": true,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": true,
+    "botAdd": false
+  },
+  "1273795651297214587": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": false,
+    "botAdd": false
+  },
+  "1370058042749751326": {
+    "channelManipulation": true,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1429984412606402570": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1260234386960547840": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": false,
+    "botAdd": false
+  },
+  "1232310028992647168": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": true,
+    "botAdd": false
+  },
+  "1250534673449357332": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1227645894774751323": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1428372665235804264": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": false,
+    "botAdd": false
+  },
+  "1437856345037738137": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1428810830811500596": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1437736141855002658": {
+    "channelManipulation": false,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": false,
+    "aiAnalyzer": true,
+    "botAdd": false
+  },
+  "1433517276367159352": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1409864050246156453": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1444215174549602477": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1434264344069406803": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": true,
+    "botAdd": false
+  },
+  "1321186970176589924": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1373698771233538149": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": false,
+    "botAdd": false
+  },
+  "1400235774187667476": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  },
+  "1447289005237469277": {
+    "channelManipulation": true,
+    "guildMemberAdd": true,
+    "messageCreate": true,
+    "roleDelete": true,
+    "aiAnalyzer": true,
+    "botAdd": true
+  }
+}
