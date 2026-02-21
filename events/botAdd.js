@@ -1,11 +1,12 @@
 const { AuditLogEvent, PermissionsBitField } = require('discord.js');
 const { loadAntiRaidConfig } = require('../core/antiraidStorage');
 const { getLoggingConfig } = require('../core/logSettingsManager');
-const { isWhitelisted } = require('../core/whitelistManager'); // <--- Import du manager
+const { isWhitelisted } = require('../core/whitelistManager'); // IMPORT DE LA WHITELIST
 
 module.exports = function (client) {
   client.on('guildMemberAdd', async (member) => {
     if (!member.user.bot) return;
+
     const { guild } = member; 
 
     try {
@@ -37,13 +38,13 @@ module.exports = function (client) {
       if (!executor) return;
 
       // =========================================================================
-      // NOUVELLE VÉRIFICATION : WHITELIST AU LIEU DE PERMISSION ADMIN
+      // VÉRIFICATION DE LA WHITELIST ET DU PROPRIÉTAIRE
       // =========================================================================
       const executorIsWhitelisted = await isWhitelisted(guild.id, executor.id);
-      const isOwner = executor.id === guild.ownerId; // L'owner est toujours immunisé
+      const isOwner = executor.id === guild.ownerId; 
 
       if (executorIsWhitelisted || isOwner) {
-        return safeLog(`ℹ️ **Anti-Raid** : Bot \`${member.user.tag}\` ajouté par \`${executor.tag}\` (Utilisateur sur **Liste Blanche**). Autorisation accordée.`);
+        return safeLog(`ℹ️ **Anti-Raid** : Bot \`${member.user.tag}\` ajouté par \`${executor.tag}\` (Autorisé via Whitelist/Owner).`);
       }
 
       if (!member.kickable) {

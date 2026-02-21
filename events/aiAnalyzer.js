@@ -1,6 +1,7 @@
 const { AuditLogEvent, EmbedBuilder } = require('discord.js');
 const { loadAntiRaidConfig } = require('../core/antiraidStorage');
 const { getLoggingConfig } = require('../core/logSettingsManager');
+const { isWhitelisted } = require('../core/whitelistManager');
 const fs = require('fs').promises;
 const path = require('path');
 
@@ -216,20 +217,16 @@ class IntelligentAntiRaid {
 
 const ai = new IntelligentAntiRaid();
 
-// =====================================================================
-// EXPORT DU MODULE D'ÉVÉNEMENTS (OPTIMISÉ ET CENTRALISÉ)
-// =====================================================================
 module.exports = async (client) => {
 
-  // Fonction centrale pour traiter tous les types de raids (évite la répétition de code)
   const processSecurityEvent = async (guild, activityType, eventData, threshold, auditType, eventNameDesc) => {
     const configAll = client.antiraidConfig || await loadAntiRaidConfig();
     if (!configAll[guild.id]?.aiAnalyzer) return;
 
-    if (!await ai.throttleAnalysis(guild.id)) return;
+    if (!await intelligentAntiRaid.throttleAnalysis(guild.id)) return;
 
-    ai.recordActivity(guild, activityType, eventData);
-    const recentActivity = ai.getRecentActivity(guild);
+    intelligentAntiRaid.recordActivity(guild, activityType, eventData);
+    const recentActivity = intelligentAntiRaid.getRecentActivity(guild);
 
     if (recentActivity[activityType] >= threshold) {
       let executor = null;
@@ -239,28 +236,41 @@ module.exports = async (client) => {
         if (entry && (Date.now() - entry.createdTimestamp) < 5000) executor = entry.executor;
       }
 
-      if (executor?.bot) return; // On ignore les actions des autres bots légitimes
+      // =====================================================================
+      // VÉRIFICATION DE LA WHITELIST ICI
+      // =====================================================================
+      if (executor) {
+        if (executor.bot) return; // Ignore les autres bots légitimes
+        if (executor.id === guild.ownerId) return; // L'owner a tous les droits
+        
+        // Si la personne qui supprime/ban est sur la liste blanche, on stoppe l'analyse anti-raid
+        const userIsWhitelisted = await isWhitelisted(guild.id, executor.id);
+        if (userIsWhitelisted) {
+            intelligentAntiRaid.log('verbose', `🛡️ Action massive ignorée : ${executor.tag} est sur la liste blanche.`);
+            return; 
+        }
+      }
 
       const context = {
         guild, event: { type: activityType }, recentActivity, executor
       };
 
-      const analysis = ai.analyzeEvent(context);
+      const analysis = intelligentAntiRaid.analyzeEvent(context);
       
       if (analysis.threatLevel >= 0.6) {
         const cooldownKey = `${guild.id}_${activityType}`;
         const now = Date.now();
 
-        if (!ai.alertCooldowns.has(cooldownKey) || (now - ai.alertCooldowns.get(cooldownKey)) > ai.config.cooldownPeriod) {
-          ai.alertCooldowns.set(cooldownKey, now);
-          await ai.learnFromEvent(guild.id, true, context, analysis);
+        if (!intelligentAntiRaid.alertCooldowns.has(cooldownKey) || (now - intelligentAntiRaid.alertCooldowns.get(cooldownKey)) > intelligentAntiRaid.config.cooldownPeriod) {
+          intelligentAntiRaid.alertCooldowns.set(cooldownKey, now);
+          await intelligentAntiRaid.learnFromEvent(guild.id, true, context, analysis);
 
           const logConfig = await getLoggingConfig(guild.id);
           if (logConfig?.enabled && logConfig.logChannelId) {
             const logChannel = guild.channels.cache.get(logConfig.logChannelId);
             if (logChannel) {
               const execText = executor ? ` par ${executor.tag}` : '';
-              const alert = ai.generateSmartAlert(guild, analysis, `${eventNameDesc} (${recentActivity[activityType]})${execText}`);
+              const alert = intelligentAntiRaid.generateSmartAlert(guild, analysis, `${eventNameDesc} (${recentActivity[activityType]})${execText}`);
               await logChannel.send({ embeds: [alert] }).catch(() => {});
             }
           }
@@ -271,7 +281,8 @@ module.exports = async (client) => {
 
   // Enregistrement des événements via le processeur centralisé
   client.on('guildMemberAdd', (member) => {
-    const isSuspicious = ai.isSuspiciousUsername(member.user.username) || (Date.now() - member.user.createdTimestamp) < 604800000;
+    if(member.user.bot) return; // Géré par botAdd.js
+    const isSuspicious = intelligentAntiRaid.isSuspiciousUsername(member.user.username) || (Date.now() - member.user.createdTimestamp) < 604800000;
     processSecurityEvent(member.guild, 'newJoins', { userId: member.id, timestamp: Date.now(), suspicious: isSuspicious }, 5, null, '🌊 Arrivée massive');
   });
 
@@ -294,7 +305,7 @@ module.exports = async (client) => {
   });
 
   client.on('channelCreate', (channel) => {
-    if (channel.guild) processSecurityEvent(channel.guild, 'channelCreations', null, 3, null, '📢 Création massive de salons');
+    if (channel.guild) processSecurityEvent(channel.guild, 'channelCreations', null, 3, AuditLogEvent.ChannelCreate, '📢 Création massive de salons');
   });
 
   client.on('channelDelete', (channel) => {
@@ -309,21 +320,15 @@ module.exports = async (client) => {
     if (channel.guild) processSecurityEvent(channel.guild, 'webhooks', null, 4, AuditLogEvent.WebhookCreate, '🔗 Création suspecte de webhooks');
   });
 
-  // Boucle de maintenance unique (remplace les 4 setInterval)
+  // Boucle de maintenance unique
   setInterval(async () => {
     const now = Date.now();
-    
-    // Nettoyage des cooldowns
-    for (const [key, timestamp] of ai.alertCooldowns.entries()) {
-      if (now > timestamp + ai.config.cooldownPeriod) ai.alertCooldowns.delete(key);
+    for (const [key, timestamp] of intelligentAntiRaid.alertCooldowns.entries()) {
+      if (now > timestamp + intelligentAntiRaid.config.cooldownPeriod) intelligentAntiRaid.alertCooldowns.delete(key);
     }
-    
-    // Nettoyage des vieilles files d'attente
-    for (const [guildId, timestamp] of ai.processingQueue.entries()) {
-      if (now > timestamp + 300000) ai.processingQueue.delete(guildId);
+    for (const [guildId, timestamp] of intelligentAntiRaid.processingQueue.entries()) {
+      if (now > timestamp + 300000) intelligentAntiRaid.processingQueue.delete(guildId);
     }
-
-    // Sauvegarde régulière
-    await ai.saveSystemData(true);
-  }, 10 * 60 * 1000); // Toutes les 10 minutes
+    await intelligentAntiRaid.saveSystemData(true);
+  }, 10 * 60 * 1000); 
 };

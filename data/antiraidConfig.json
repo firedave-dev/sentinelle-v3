@@ -246,5 +246,13 @@
     "roleDelete": true,
     "aiAnalyzer": true,
     "botAdd": true
+  },
+  "1406749255091093716": {
+    "channelManipulation": false,
+    "guildMemberAdd": false,
+    "messageCreate": false,
+    "roleDelete": false,
+    "aiAnalyzer": false,
+    "botAdd": false
   }
 }
