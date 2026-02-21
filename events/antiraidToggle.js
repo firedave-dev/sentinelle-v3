@@ -1,34 +1,35 @@
-﻿module.exports = {
-  name: 'antiraidToggle',
+﻿const { Events } = require('discord.js');
+const { saveAntiRaidConfig, loadAntiRaidConfig } = require('../core/antiraidStorage');
 
-  /**
-   * @param {import('discord.js').Guild} guild
-   * @param {boolean} isEnabled
-   * @param {import('discord.js').Client} client
-   */
-  async execute(guild, isEnabled, client) {
-    if (!guild || !client) return;
+module.exports = {
+    name: Events.InteractionCreate,
+    async execute(interaction, client) {
+        if (!interaction.isButton()) return;
+        if (!interaction.customId.startsWith('antiraid_')) return;
 
-    
-    const logChannel = guild.channels.cache.find(
-      c =>
-        c.name === 'logs' &&
-        c.type === 0 && 
-        c.topic === 'Salon de logs automatique créé par Sentinelle 🛡️'
-    );
+        // Sécurité : Seul l'owner ou un admin peut toucher à ça
+        if (!interaction.member.permissions.has('Administrator')) {
+            return interaction.reply({ content: "Tu n'as pas la permission.", ephemeral: true });
+        }
 
-    if (!logChannel || !logChannel.isTextBased()) return;
+        const guildId = interaction.guild.id;
+        const configAll = await loadAntiRaidConfig();
+        const config = configAll[guildId] || {};
+        
+        // On récupère l'action (ex: 'botAdd', 'antiPing') depuis l'ID du bouton
+        const action = interaction.customId.replace('antiraid_', '');
 
-    const statusMsg = isEnabled
-      ? '🛡️ Le mode **anti-raid** a été activé sur ce serveur.'
-      : '❌ Le mode **anti-raid** a été désactivé sur ce serveur.';
+        // On inverse la valeur actuelle (True -> False / False -> True)
+        config[action] = !config[action];
+        
+        configAll[guildId] = config;
+        await saveAntiRaidConfig(configAll);
+        client.reloadAntiRaidConfig(); // On met à jour le cache du client
 
-    try {
-      await logChannel.send({
-        content: statusMsg,
-      });
-    } catch (err) {
-      console.error(`❌ Erreur lors de l'envoi du message anti-raid toggle dans ${guild.name} :`, err);
+        const status = config[action] ? '✅ Activé' : '❌ Désactivé';
+        await interaction.reply({ 
+            content: `Le module **${action}** est maintenant ${status}.`, 
+            ephemeral: true 
+        });
     }
-  }
 };
