@@ -37,15 +37,10 @@ module.exports = {
 
     updateStatusLoop(client);
 
-    for (const [guildId, guildConfig] of Object.entries(client.antiraidConfig)) {
-      const state = guildConfig.enabled ? 'activé ✅' : 'désactivé ❌';
-      console.log(`ℹ️ Serveur ${guildId}: Anti-raid est **${state}**`);
-    }
 
     for (const [guildId, guild] of client.guilds.cache) {
       try {
         const logChannel = await getLogChannel(guild, client);
-        if (logChannel) console.log(`📋 Salon de logs prêt ou existant dans ${guild.name}`);
       } catch (error) {
         console.error(`❌ Erreur logChannel dans ${guild.name} :`, error.message);
       }

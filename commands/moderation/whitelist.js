@@ -7,7 +7,7 @@ module.exports = {
         .setDescription('Gérer la liste blanche de l\'Anti-Raid.'),
 
     async execute(interaction) {
-        // Sécurité absolue : Seul le propriétaire du serveur peut utiliser cette commande
+
         if (interaction.user.id !== interaction.guild.ownerId) {
             return interaction.reply({ 
                 content: '❌ **Accès refusé** : Seul le propriétaire de ce serveur peut gérer la Whitelist.', 

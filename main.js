@@ -76,7 +76,6 @@ if (fs.existsSync(eventsDir)) {
 
 // Chargement des modules externes
 require('./logs/channelLogs')(client);
-require('./logs/roleLogs')(client);
 require('./logs/antiraidTriggered')(client);
 
 module.exports = client;
